@@ -1,4 +1,4 @@
-# Activity-lifecycle
+# Activity-lifecycle por Gustavo dos Santos Silva, ADS - 4° Período
 
 # Introdução
 
